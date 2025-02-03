@@ -1,2 +1,5 @@
-# Caso2Grupo5
-Caso de Estudio 2 grupo 5
+# 🎮 2D Game in Unity
+
+📌 Project Overview
+
+This is a 2D game developed using Unity Hub
